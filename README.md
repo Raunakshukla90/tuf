@@ -14,4 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raunakshukla90/tuf/tree/master/0005-longest-palindromic-substring) |
+## Array
+|  |
+| ------- |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raunakshukla90/tuf/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+## Binary Search
+|  |
+| ------- |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raunakshukla90/tuf/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 <!---LeetCode Topics End-->
