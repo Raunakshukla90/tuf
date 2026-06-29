@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Raunakshukla90/tuf/tree/master/0005-longest-palindromic-substring) |
+| [0018-4sum](https://github.com/Raunakshukla90/tuf/tree/master/0018-4sum) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Raunakshukla90/tuf/tree/master/0018-4sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raunakshukla90/tuf/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
 |  |
@@ -49,4 +51,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Raunakshukla90/tuf/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Raunakshukla90/tuf/tree/master/0013-roman-to-integer) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/Raunakshukla90/tuf/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
