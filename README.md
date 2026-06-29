@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Raunakshukla90/tuf/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/Raunakshukla90/tuf/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/Raunakshukla90/tuf/tree/master/0013-roman-to-integer) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raunakshukla90/tuf/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Raunakshukla90/tuf/tree/master/0018-4sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raunakshukla90/tuf/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raunakshukla90/tuf/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Binary Search
 |  |
 | ------- |
