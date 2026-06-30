@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Raunakshukla90/tuf/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Raunakshukla90/tuf/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Raunakshukla90/tuf/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Raunakshukla90/tuf/tree/master/0014-longest-common-prefix) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raunakshukla90/tuf/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Raunakshukla90/tuf/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Raunakshukla90/tuf/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Raunakshukla90/tuf/tree/master/0018-4sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raunakshukla90/tuf/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -61,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Raunakshukla90/tuf/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Raunakshukla90/tuf/tree/master/0018-4sum) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Raunakshukla90/tuf/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
