@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Raunakshukla90/tuf/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Raunakshukla90/tuf/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Raunakshukla90/tuf/tree/master/0018-4sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raunakshukla90/tuf/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raunakshukla90/tuf/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Raunakshukla90/tuf/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2643-row-with-maximum-ones](https://github.com/Raunakshukla90/tuf/tree/master/2643-row-with-maximum-ones) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Raunakshukla90/tuf/tree/master/0013-roman-to-integer) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raunakshukla90/tuf/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0146-lru-cache](https://github.com/Raunakshukla90/tuf/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Raunakshukla90/tuf/tree/master/0460-lfu-cache) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raunakshukla90/tuf/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raunakshukla90/tuf/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -106,7 +109,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raunakshukla90/tuf/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raunakshukla90/tuf/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raunakshukla90/tuf/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
