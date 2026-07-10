@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Raunakshukla90/tuf/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/Raunakshukla90/tuf/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/Raunakshukla90/tuf/tree/master/0460-lfu-cache) |
 ## Design
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raunakshukla90/tuf/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Raunakshukla90/tuf/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raunakshukla90/tuf/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Raunakshukla90/tuf/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raunakshukla90/tuf/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -104,12 +107,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Raunakshukla90/tuf/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Raunakshukla90/tuf/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/Raunakshukla90/tuf/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Raunakshukla90/tuf/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0543-diameter-of-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
