@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Raunakshukla90/tuf/tree/master/0018-4sum) |
 | [0143-reorder-list](https://github.com/Raunakshukla90/tuf/tree/master/0143-reorder-list) |
 | [0633-sum-of-square-numbers](https://github.com/Raunakshukla90/tuf/tree/master/0633-sum-of-square-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/Raunakshukla90/tuf/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/Raunakshukla90/tuf/tree/master/1768-merge-strings-alternately) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raunakshukla90/tuf/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## String
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Raunakshukla90/tuf/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Raunakshukla90/tuf/tree/master/0896-monotonic-array) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Raunakshukla90/tuf/tree/master/0918-maximum-sum-circular-subarray) |
+| [0977-squares-of-a-sorted-array](https://github.com/Raunakshukla90/tuf/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Raunakshukla90/tuf/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1140-stone-game-ii](https://github.com/Raunakshukla90/tuf/tree/master/1140-stone-game-ii) |
 | [1929-concatenation-of-array](https://github.com/Raunakshukla90/tuf/tree/master/1929-concatenation-of-array) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Raunakshukla90/tuf/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Raunakshukla90/tuf/tree/master/0018-4sum) |
+| [0977-squares-of-a-sorted-array](https://github.com/Raunakshukla90/tuf/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Raunakshukla90/tuf/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [3731-find-missing-elements](https://github.com/Raunakshukla90/tuf/tree/master/3731-find-missing-elements) |
 ## Trie
